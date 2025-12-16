@@ -34,7 +34,7 @@
             margin-top: 15px;
             font-weight: 510;   
             color: #333;
-            font-size: 1em;
+            font-size: 5em;
         }
         input[type="text"],
         input[type="email"],
@@ -67,12 +67,7 @@
             font-size: 0.92em;
           
         }
-        .success{
-            color: #00C851;
-            font-size: 1.05em;
-            text-align: center;
-
-        }
+        
     </style>
 </head>
 <body>
