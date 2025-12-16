@@ -59,6 +59,7 @@
             font-size: 1em;
             cursor: pointer;
             transition: background 0.2s;
+            inset:0;
         }
         .error{
             color: #FF3838;
